@@ -1,1 +1,1 @@
-Android project files go here.
+Android V2 embedding structure placeholder.

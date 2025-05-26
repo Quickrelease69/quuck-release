@@ -1,1 +1,1 @@
-iOS project files go here.
+iOS folder placeholder.
